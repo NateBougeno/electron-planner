@@ -1,0 +1,23 @@
+.root {
+    text-align: center;
+  }
+  
+.App-header {
+    background-color: #590cc7;
+    border-bottom: 2px solid #45089c;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow:  5px 5px 5px 5px #330870;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(50px + 2vmin);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+  
+.App-link {
+    color: #61dafb;
+}
+  
