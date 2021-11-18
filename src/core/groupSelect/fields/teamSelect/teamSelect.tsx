@@ -3,8 +3,7 @@ import { Autocomplete, TextField } from "@mui/material";
 import './teamSelect.scss';
 
 export function TeamSelect({options}: IProps) {
-    const [value, setValue] = React.useState('');
-    const [openDialog, setOpenDialog] = React.useState(false);
+    const [value] = React.useState('');
     
     return(
         <div className="teamSelectContainer">

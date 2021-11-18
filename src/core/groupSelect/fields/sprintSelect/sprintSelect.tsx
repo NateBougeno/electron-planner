@@ -3,8 +3,7 @@ import { Autocomplete, TextField } from "@mui/material";
 import './sprintSelect.scss';
 
 export function SprintSelect({options}: IProps) {
-    const [value, setValue] = React.useState('');
-    const [openDialog, setOpenDialog] = React.useState(false);
+    const [value] = React.useState('');
     
     return(
         <div className="sprintSelectContainer">

@@ -1,12 +1,15 @@
-import { Home } from './core/home/home';
+import { Home } from './core';
 import './App.scss';
 import { Route, Routes } from 'react-router';
+import { RecoilRoot } from 'recoil';
 
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />}/>
-    </Routes>
+    <RecoilRoot>
+      <Routes>
+        <Route path="/" element={<Home />}/>
+      </Routes>
+    </RecoilRoot>
   );
 }
 
