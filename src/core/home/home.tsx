@@ -8,7 +8,7 @@ export function Home() {
     <Fade in={true}>
         <div className="root">
             <header className="App-header">
-                Story Planner Assistant
+                Story Note Assistant and Planner
             </header>
             <GroupSelect/>
         </div>

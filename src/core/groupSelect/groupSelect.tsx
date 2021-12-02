@@ -1,15 +1,13 @@
 import * as React from 'react';
 import './groupSelect.scss';
 import { SubmitButton, CloseButton, TeamSelect, SprintSelect, ServerUrlField } from './fields';
-import { serverUrlState } from '../../util';
-import { useRecoilState } from 'recoil';
+// import { serverUrlState } from '../../util';
+// import { useRecoilState } from 'recoil';
 
 export function GroupSelect ({...props}: IProps) {
     // eslint-disable-next-line
     const [dataLoaded, setDataLoaded] = React.useState(false);
-    const [serverUrl] = useRecoilState(serverUrlState);
-    
-    console.log(serverUrl);
+    // const [serverUrl] = useRecoilState(serverUrlState);
     
     return(
         <div className="groupSelectRoot" >

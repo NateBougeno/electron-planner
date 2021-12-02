@@ -5,6 +5,16 @@ export const serverUrlState = atom({
     key: 'serverUrlState',
     default: '',
 });
+
+export const sprintState = atom({
+    key: 'sprintState',
+    default: '',
+})
+  
+export const teamState = atom({
+    key: 'teamState',
+    default: '',
+})
     
 export const errorState = atom({
     key: 'errorState',

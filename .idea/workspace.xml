@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6ca1ea-1e64-4fe3-8e7d-0b3d21a0015b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/groupSelect/groupSelect.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/groupSelect/groupSelect.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/groupSelect/fields/sprintSelect/sprintSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/groupSelect/fields/sprintSelect/sprintSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/groupSelect/fields/submitButton/submitButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/groupSelect/fields/submitButton/submitButton.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/groupSelect/groupSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/groupSelect/groupSelect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/home/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/managedTypes/managedTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/managedTypes/managedTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/recoil/atoms.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/recoil/atoms.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
